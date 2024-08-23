@@ -1,4 +1,4 @@
-##  Hola 👋, soy Aldo Germán Navarro
+##  Hola 👋, soy Germán 
 
 💻 Software Developer | Técnico en Desarrollo de Software
 

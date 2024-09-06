@@ -20,7 +20,7 @@ Soy un desarrollador de software principiante, apasionado por aprender nuevas te
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
 </p>
 
-👨‍💻 Proyectos
+👨‍💻 
 A medida que avanzo en mi aprendizaje, estoy trabajando en pequeños proyectos para fortalecer mis habilidades. 
-Puedes encontrar algunos de ellos aquí en mi perfil de GitHub. ¡Cualquier feedback es bienvenido!
+Puedes encontrar algunos de ellos aquí en mi perfil de GitHub. ¡Cualquier feedback es bienvenido!🚀🚀🚀
 
